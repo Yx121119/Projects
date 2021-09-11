@@ -6,6 +6,6 @@
 * testing.r 包括所有的测试与场景模拟代码
 * function.r 包括所有的自定义函数
 
-需要安装：patchwork, mixtools, ggplot2, car.
+需要安装：patchwork, mixtools, ggplot2, car
 
 
